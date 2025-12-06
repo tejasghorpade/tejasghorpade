@@ -43,7 +43,7 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: **your.email@example.com**  
+- 📧 Email: **ghorpadetejas76@gmail.com**  
 - 💼 LinkedIn: **https://linkedin.com/in/tejas-ghorpade-4452a7342**  
 
 ---
