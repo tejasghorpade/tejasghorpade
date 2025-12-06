@@ -7,7 +7,7 @@
 <img src="https://avatars.githubusercontent.com/u/179977376?v=4" width="140" style="border-radius: 50%" />
 
 # 👋 Hi, I'm <span style="color:#ff4b4b;">Tejas Ghorpade</span>  
-### 🚀 Java Full Stack Developer | React | Spring Boot | MySQL
+### 🚀 Java Full Stack Developer | React | Spring Boot | MySQL | MongoDB
 
 💡 Passionate about building modern web apps, clean UI, and powerful backend systems.  
 🔥 Always learning, improving & creating something amazing!
