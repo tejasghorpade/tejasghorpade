@@ -1,75 +1,82 @@
-<!-- =======================================================
-   🌟 TEJAS GHORPADE — PREMIUM GITHUB PROFILE README
-   ======================================================= -->
+# Tejas Ghorpade 👋
 
-<div align="center">
+Java & React Developer | BCA Graduate | Software Development Intern  
+📍 Ahmednagar, India
 
-<img src="https://avatars.githubusercontent.com/u/179977376?v=4" width="140" style="border-radius: 50%" />
-
-# 👋 Hi, I'm <span style="color:#ff4b4b;">Tejas Ghorpade</span>  
-### 🚀 Java Full Stack Developer | React | Spring Boot | MySQL | MongoDB
-
-💡 Passionate about building modern web apps, clean UI, and powerful backend systems.  
-🔥 Always learning, improving & creating something amazing!
+📧 Email: ghorpadetejas76@gmail.com  
+📞 Contact: 8668822667  
 
 ---
 
-### 🧩 **Tech Stack**
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,react,html,css,tailwind,bootstrap,mysql,mongodb,nodejs,express,git,github,postman,vscode" />
-</p>
+## 👨‍💻 Professional Summary
+Detail-oriented BCA graduate with hands-on experience in Java, Spring Boot, React.js, MySQL, and frontend technologies. Strong understanding of object-oriented programming, REST APIs, and software development lifecycle. Passionate about building clean, efficient, and scalable applications.
 
 ---
 
-### 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasghorpade&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejasghorpade&theme=radical&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasghorpade&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
+## 🛠️ Technical Skills
+**Programming Languages:** Java, C, C++  
+**Frameworks & Libraries:** Spring Boot, React.js  
+**Web Technologies:** HTML5, CSS3, JavaScript  
+**Databases:** MySQL, MongoDB  
+**Tools & Concepts:** Git, OOP, SDLC, REST APIs, Manual Testing, Debugging  
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
+**Software Development Intern**  
+**KodNest Technologies – Bengaluru, India**  
+_Jan 2025 – Mar 2025_
 
-| Project | Description | Tech Stack | Live / Code |
-|--------|-------------|------------|-------------|
-| **KaamMitra** | Job-finding platform for workers & families | React, Spring, MySQL | 🚧 Coming Soon |
-| **Todo App** | Full-stack todo app with authentication | React, Node, MongoDB | 🔗 [Repo](https://github.com/tejasghorpade) |
-| **Clock App** | Beautiful digital clock built in React | React | 🔗 [Repo](https://github.com/tejasghorpade) |
-
----
-
-## 📫 Connect With Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/tejas-ghorpade-4452a7342/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
-  </a>
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
-  <a href="https://github.com/tejasghorpade">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
-  </a>
-</p>
+- Developed and tested web applications using Java, MySQL, HTML, CSS, and JavaScript  
+- Implemented backend logic following OOP principles  
+- Performed manual testing, bug identification, and test case documentation  
+- Worked in a team environment following SDLC and version control practices  
 
 ---
 
-## 😎 Fun Fact  
-💬 *"I break code so I can fix it better."*
+## 🚀 Projects
+
+### 🌸 Flower Shop Management System
+**Tech Stack:** Java, Swing, MySQL  
+- Desktop-based application for managing customers, flower inventory, pricing, and billing  
+- Implemented CRUD operations and automated bill generation  
+
+🔗 Repo: `flower-shop-management-system`
 
 ---
 
-<div align="center">
-  
-### 🐍 Contribution Snake
-![snake gif](https://github.com/tejasghorpade/tejasghorpade/blob/output/github-contribution-grid-snake-dark.svg)
+### ⏰ Digital Clock Application
+**Tech Stack:** React.js  
+- Real-time digital clock using React hooks  
+- Clean UI with optimized rendering  
 
-</div>
+🔗 Repo: `react-digital-clock`
 
 ---
 
-⭐ **Thanks for visiting! Feel free to star ⭐ my repositories!**
+### 🌐 Resume Portfolio Website
+**Tech Stack:** React.js, React Router  
+- Multi-page resume website (About, Skills, Projects, Contact)  
+- Responsive design with reusable components  
+
+🔗 Repo: `react-resume-portfolio`
+
+---
+
+### 💱 Currency Converter Web App
+**Tech Stack:** HTML, CSS, JavaScript  
+- Currency converter using JavaScript logic and DOM manipulation  
+- Lightweight and user-friendly interface  
+
+🔗 Repo: `currency-converter-js`
+
+---
+
+## 🌍 Languages
+- English – Fluent  
+- Hindi – Fluent  
+- Marathi – Advanced  
+
+---
+
+⭐ *Feel free to explore my repositories and projects.*
